@@ -1,0 +1,10 @@
+/pdfs/
+venv
+env
+!/pdfs/.gitinclude
+*.pdf
+.env
+.idea
+*.pkl
+*.faiss
+*.xml
